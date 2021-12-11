@@ -27,7 +27,7 @@ jobs:
     - run: npm run cy:run
       continue-on-error: true
       
-    - run: npm reporte:merge
+    - run: npm report:merge
     - run: npm report:mocha
     
     #GitHub Pages
