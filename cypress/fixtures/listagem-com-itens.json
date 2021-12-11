@@ -1,0 +1,26 @@
+[
+  {
+    "firstName": "Tonny",
+    "lastName": "Stark",
+    "adress": "Rua Amador Bueno, 1234",
+    "emailAdress": "agilizeibootcamp@mail.com",
+    "radioGender": "n",
+    "checks": ["Netflix", "Livros"],
+    "selectCountries": "Dinamarca",
+    "selectYears": "1996",
+    "selectMonths": "Fevereiro",
+    "pwd": "Alunos@2021"
+  },
+  {
+    "firstName": "Steve",
+    "lastName": "Rogers",
+    "adress": "Rua Amador Bueno, 1234",
+    "emailAdress": "agilizeibootcamp@mail.com",
+    "radioGender": "m",
+    "checks": ["Netflix", "Livros"],
+    "selectCountries": "Dinamarca",
+    "selectYears": "1996",
+    "selectMonths": "Fevereiro",
+    "pwd": "Alunos@2021"
+  }
+]
